@@ -3,5 +3,4 @@
 
 This is a text
 
-##This is a list
--Item 1
+Daniel Hristov
